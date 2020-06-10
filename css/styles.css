@@ -1,0 +1,33 @@
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+div {
+  text-align: center;
+}
+
+td {
+  border: 20px solid white;ß    
+}
+
+h1 {
+  color: red;
+  text-decoration: underline;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.nav-left {
+  margin-right: auto;
+}
+
+#listed {
+  list-style-type: square;
+}
